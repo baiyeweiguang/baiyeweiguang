@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning Deep Learning, SLAM, Computer Vision and Rust Lang
 - 📫 How to reach me: Email: chengfuzou@outlook.com QQ: 3548054568
 
-![Baiyeweiguang's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiyeweiguang&count_private=true&show_icons=true)
-
 <!--
 **baiyeweiguang/baiyeweiguang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
