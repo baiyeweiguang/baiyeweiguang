@@ -2,9 +2,12 @@
 
 - 🎓 I am an undergraduate majoring in AI at Central South University（中南大学）
 - 🔭 I’m currently working for FYT, RoboMaster team of CSU
-- 🦾 I can program in C++, Python and Go
-- 🌱 I’m currently learning Deep Learning, SLAM, Computer Vision and Rust Lang
+- 🦾 I can program in C++ and Python
+- 🌱 I’m currently learning Deep Learning, SLAM, Computer Vision
 - 📫 How to reach me: Email: chengfuzou@outlook.com QQ: 3548054568
+
+[![Chengfu Zou's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiyeweiguang&count_private=true&show_icons=true)](https://github.com/baiyeweiguang)
+
 
 <!--
 **baiyeweiguang/baiyeweiguang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
