@@ -1,7 +1,8 @@
 ### Hi there 👋 This is 邹承甫！
 
-- 🎓 I am an undergraduate majoring in AI at Central South University（中南大学）
-- 🔭 I’m currently working for FYT, RoboMaster team of CSU
+- 🎓 I'm an undergraduate at Central South University and prepare to pursue Master degree at Xi'an Jiaotong University
+- 🔭 I'm currently working as a software engineer inter at Xiaomi Inc.
+- 👯 I used to be the leader of Vision Group of FYT, RoboMaster team of CSU
 - 🦾 I can program in C++ and Python
 - 🌱 I’m currently learning Deep Learning, SLAM, Computer Vision
 - 📫 How to reach me: Email: chengfuzou@outlook.com QQ: 3548054568
