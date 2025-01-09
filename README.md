@@ -1,10 +1,11 @@
 ### Hi there 👋 This is 邹承甫！
 
-- 🎓 I'm a senior at **Central South University (CSU)** and prepare to pursue Master degree at **Xi'an Jiaotong University (XJTU)**
-- 🔭 I'm currently working as a software engineer inter at Xiaomi Inc.
-- 👯 I used to be the leader of Vision Group of FYT, RoboMaster team of CSU
+- 🎓 I'm a senior at **Central South University (CSU)**
+  - and prepare to pursue Master degree at **Xi'an Jiaotong University (XJTU)**
+- 🔨 I'm currently working as a software engineer inter at **Xiaomi Inc**.
+- 🔭 I used to be the leader of Vision Group of FYT, RoboMaster team of CSU
 - 🦾 I can program in C++ and Python
-- 🌱 I’m currently learning Deep Learning, SLAM, Computer Vision
+- 🌱 I’m currently learning Diffusion based image or something generation
 - 📫 How to reach me: Email: chengfuzou@outlook.com QQ: 3548054568
 
 [![Chengfu Zou's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiyeweiguang&count_private=true&show_icons=true)](https://github.com/baiyeweiguang)
