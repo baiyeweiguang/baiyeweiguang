@@ -2,7 +2,7 @@
 
 - 🎓 I'm a senior at **Central South University (CSU)**
   - and prepare to pursue Master degree at **Xi'an Jiaotong University (XJTU)**
-- 🔨 I'm currently working as a software engineer inter at **Xiaomi Inc**.
+- 🔨 I'm currently working as a software engineer intern at **Xiaomi Inc**.
 - 🔭 I used to be the leader of Vision Group of FYT, RoboMaster team of CSU
 - 🦾 I can program in C++ and Python
 - 🌱 I’m currently learning Diffusion based image or something generation
