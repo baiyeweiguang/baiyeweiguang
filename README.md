@@ -1,12 +1,10 @@
 ### Hi there 👋 This is 邹承甫！
 
-- 🎓 I'm a senior at **Central South University (CSU)**
-  - and prepare to pursue Master degree at **Xi'an Jiaotong University (XJTU)**
-- 🔨 I'm currently working as a software engineer intern at **Xiaomi Inc**.
-- 🔭 I used to be the leader of Vision Group of FYT, RoboMaster team of CSU
-- 🦾 I can program in C++ and Python
-- 🌱 I’m currently learning Diffusion based image or something generation
-- 📫 How to reach me: Email: chengfuzou@outlook.com QQ: 3548054568
+- 🎓 BSc, **Central South University (中南大学)**,  Sept 2021 - Jul 2025.
+  - 🤖Member, **FYT RoboMaster team**, Feb 2022 - Aug 2024.
+  - 🔨Internship, **Xiaomi Inc**, Dec 2024 - Apr 2025.
+- 🎓 Msc, **Xi'an Jiaotong University (西安交通大学)**, Sept 2025 - ...
+- 📫 Email: chengfuzou@outlook.com QQ: 3548054568
 
 [![Chengfu Zou's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiyeweiguang&count_private=true&show_icons=true)](https://github.com/baiyeweiguang)
 
