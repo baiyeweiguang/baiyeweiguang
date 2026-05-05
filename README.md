@@ -4,6 +4,7 @@
   - 🤖Member, **FYT RoboMaster team**, Feb 2022 - Aug 2024.
   - 🔨Internship, **Xiaomi Inc**, Dec 2024 - Apr 2025.
 - 🎓 Msc, **Xi'an Jiaotong University (西安交通大学)**, Sept 2025 - ...
+  - 📄 My first paper accepted by IJCAI26🎉 May 2026.
 - 📫 Email: chengfuzou@outlook.com QQ: 3548054568
 
 [![Chengfu Zou's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiyeweiguang&count_private=true&show_icons=true)](https://github.com/baiyeweiguang)
