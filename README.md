@@ -7,9 +7,6 @@
 - 🎓 MEng, **Xi'an Jiaotong University (西安交通大学)**, Sept 2025 - Present
   - 📄 First paper accepted by **IJCAI 2026** 🎉, May 2026
 
-- 📫 Email: chengfuzou@outlook.com QQ: 3548054568
-
-[![Chengfu Zou's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiyeweiguang&count_private=true&show_icons=true)](https://github.com/baiyeweiguang)
 
 
 <!--
